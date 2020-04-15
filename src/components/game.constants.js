@@ -1,0 +1,1 @@
+export const HEADER_TEXT = "This is a simple sudoku game!";
